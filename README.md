@@ -2,4 +2,5 @@
 
 ![Avengers Banner](Images/weight1.jpg)
 
-This repo investigates factors that may influence birth weight, such as maternal characteristics and pregnancy-related factors
+Project Overview
+This project analyzes critical factors affecting newborn birth weight, a key indicator of neonatal health. By examining maternal characteristics, prenatal care, and lifestyle habits, we provide data-driven insights to help healthcare providers and policymakers reduce low birth weight (LBW) incidence and improve infant health outcomes.
