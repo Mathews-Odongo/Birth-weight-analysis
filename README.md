@@ -21,3 +21,22 @@ Low birth weight (<2500 grams) is associated with:
 
 - Provide evidence-based recommendations for reducing LBW incidence
 
+## Data Understanding
+Dataset: babies.csv (1,236 records)
+Variables:
+
+- case: Unique identifier
+
+- bwt: Birth weight (grams) - target variable
+
+- gestation: Pregnancy duration (days)
+
+- parity: Pregnancy history (0 = first pregnancy)
+
+- age: Maternal age (years)
+
+- height: Maternal height (inches)
+
+- weight: Maternal pre-pregnancy weight (pounds)
+
+- smoke: Smoking status (0 = non-smoker, 1 = smoker)
