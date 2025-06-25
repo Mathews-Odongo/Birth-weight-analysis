@@ -40,3 +40,24 @@ Variables:
 - weight: Maternal pre-pregnancy weight (pounds)
 
 - smoke: Smoking status (0 = non-smoker, 1 = smoker)
+
+## Data Cleaning:
+
+## Filled missing values with column means:
+
+- Gestation (13 missing)
+
+- Maternal age (2 missing)
+
+- Height (22 missing)
+
+- Weight (36 missing)
+
+- Smoking status (10 missing)
+
+- Created derived categorical features:
+
+- smoke: Categorized as "Smoker" or "Non-smoker"
+
+- parity_group: "First pregnancy" vs "Previous pregnancies"
+
