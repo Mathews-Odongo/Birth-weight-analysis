@@ -14,3 +14,10 @@ Low birth weight (<2500 grams) is associated with:
 
 - Developmental challenges
 
+# Project Goals
+- Analyze correlations between prenatal care, maternal health, and birth outcomes
+
+- Identify key modifiable risk factors for low birth weight
+
+- Provide evidence-based recommendations for reducing LBW incidence
+
