@@ -1,6 +1,6 @@
 # Birth-weight-analysis
 
-![Avengers Banner](Images/weight1.jpg)
+![birthweight](Images/weight1.jpg)
 
 # Project Overview
 This project analyzes critical factors affecting newborn birth weight, a key indicator of neonatal health. By examining maternal characteristics, prenatal care, and lifestyle habits, we provide data-driven insights to help healthcare providers and policymakers reduce low birth weight (LBW) incidence and improve infant health outcomes.
@@ -63,7 +63,7 @@ Variables:
 
 ## Exploratory Data Analysis
 # Maternal Age Distribution
-![Maternal]( Images/maternal age distribution.png )
+![birthweight](Images/maternal age distribution.png)
 
 Childbirth most common among women in their 20s
 
