@@ -72,3 +72,11 @@ Mean maternal age: 27.3 years
 
 Normal distribution with slight right skew
 
+## Gestation vs. Birth Weight
+![gestation](<gestation period vs weight.png>)
+
+Strong positive correlation between gestation period and birth weight (r=0.41)
+
+Non-smokers consistently deliver heavier babies at equivalent gestation periods
+
+Smoking introduces greater variability in outcomes
