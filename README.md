@@ -80,3 +80,12 @@ Strong positive correlation between gestation period and birth weight (r=0.41)
 Non-smokers consistently deliver heavier babies at equivalent gestation periods
 
 Smoking introduces greater variability in outcomes
+
+## Pregnancy History Impact
+![pregnancy history](<birth weight by pregnancy history.png>)
+
+Subsequent pregnancies show slightly higher birth weights
+
+First-time mothers have marginally lower birth weights
+
+Parity alone shows weaker correlation than other factors
