@@ -113,3 +113,6 @@ Variables:
 - First-time mothers have slightly lower birth weights than multiparous women
 
 - Maternal age (within observed range) shows minimal direct impact
+
+## Conclusion
+This analysis identifies gestation period and maternal smoking as the most significant modifiable factors affecting birth weight. Evidence-based interventions targeting these areas offer the greatest potential for improving neonatal outcomes. Healthcare systems should prioritize smoking cessation support and preterm birth prevention programs to reduce low birth weight incidence and its associated health burdens.
