@@ -89,3 +89,16 @@ Subsequent pregnancies show slightly higher birth weights
 First-time mothers have marginally lower birth weights
 
 Parity alone shows weaker correlation than other factors
+
+## Correlation Matrix
+![matrix](corellation.png)
+
+Key Correlations:
+
+Strongest positive: Gestation → Birth weight (0.41)
+
+Strongest negative: Smoking → Birth weight (-0.24)
+
+Moderate positive: Maternal height → Birth weight (0.19)
+
+Weak correlation: Maternal age → Birth weight (0.08)
