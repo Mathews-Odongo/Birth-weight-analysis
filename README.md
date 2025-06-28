@@ -64,7 +64,7 @@ Variables:
 ## Exploratory Data Analysis
 # Maternal Age Distribution
 
-![mertanal](Images/maternal age distribution.png)
+![alt text](<maternal age distribution.png>)
 
 Childbirth most common among women in their 20s
 
