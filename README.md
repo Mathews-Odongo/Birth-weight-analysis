@@ -66,39 +66,50 @@ Variables:
 
 ![alt text](<maternal age distribution.png>)
 
-Childbirth most common among women in their 20s
+- Childbirth most common among women in their 20s
 
-Mean maternal age: 27.3 years
+- Mean maternal age: 27.3 years
 
-Normal distribution with slight right skew
+- Normal distribution with slight right skew
 
 ## Gestation vs. Birth Weight
 ![gestation](<gestation period vs weight.png>)
 
-Strong positive correlation between gestation period and birth weight (r=0.41)
+- Strong positive correlation between gestation period and birth weight (r=0.41)
 
-Non-smokers consistently deliver heavier babies at equivalent gestation periods
+- Non-smokers consistently deliver heavier babies at equivalent gestation periods
 
-Smoking introduces greater variability in outcomes
+- Smoking introduces greater variability in outcomes
 
 ## Pregnancy History Impact
 ![pregnancy history](<birth weight by pregnancy history.png>)
 
-Subsequent pregnancies show slightly higher birth weights
+- Subsequent pregnancies show slightly higher birth weights
 
-First-time mothers have marginally lower birth weights
+- First-time mothers have marginally lower birth weights
 
-Parity alone shows weaker correlation than other factors
+- Parity alone shows weaker correlation than other factors
 
 ## Correlation Matrix
 ![matrix](corellation.png)
 
-Key Correlations:
+## Key Correlations:
 
-Strongest positive: Gestation → Birth weight (0.41)
+- Strongest positive: Gestation → Birth weight (0.41)
 
-Strongest negative: Smoking → Birth weight (-0.24)
+- Strongest negative: Smoking → Birth weight (-0.24)
 
-Moderate positive: Maternal height → Birth weight (0.19)
+- Moderate positive: Maternal height → Birth weight (0.19)
 
-Weak correlation: Maternal age → Birth weight (0.08)
+- Weak correlation: Maternal age → Birth weight (0.08)
+
+## Key Findings
+- Gestation period is the strongest predictor of birth weight (r=0.41)
+
+- Maternal smoking reduces birth weight by 200-500g on average (r=-0.24)
+
+- Maternal height and weight show moderate positive correlation with birth weight
+
+- First-time mothers have slightly lower birth weights than multiparous women
+
+- Maternal age (within observed range) shows minimal direct impact
